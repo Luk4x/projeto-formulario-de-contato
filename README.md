@@ -16,7 +16,7 @@
 
 <img src="./result.png" alt="challenge-result">
 
-> Acesse o projeto [AQUI](https://luk4x.github.io/projeto-formulario-de-contato/)
+> Acesse o projeto online **[AQUI](https://luk4x.github.io/projeto-formulario-de-contato/)**
 
 ## 📝 Sobre
 Desenvolvi um formulário funcional utilizando os serviços da [FormSubmit](https://formsubmit.co/), juntamente com HTML e CSS.
