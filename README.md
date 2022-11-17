@@ -10,8 +10,9 @@
     </td>
   </tr>
 </table>
-<br>
 
+![luk4x-repo-status](https://img.shields.io/badge/Status-Finished-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
+![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/projeto-formulario-de-contato?style=for-the-badge&logo=unlicense&logoColor=lightgrey)
 # 🧾 Functional Contact Form
 
 <img src="./result.png" alt="challenge-result">
